@@ -1,7 +1,4 @@
 /*
-SE-B-15
-KUSHAL RAKESH DOGRA
-OOP assignment : 02
 Problem Statement:
 Develop a program in C++ to create a database of students information system containing the
 following information: Name, roll number, Class, Division, Date of Birth, Blood group, Contact
